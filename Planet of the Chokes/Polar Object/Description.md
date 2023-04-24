@@ -1,0 +1,2 @@
+Description of the file:
+Because many of the behaviors of entities in the game could be simplified when viewed throught he lense of Polar coordinates, my partners and I created the polar object parent class whose methods and traits were inherited by virtually all entities and objects in the game. The abstraction relieved a lot of the complexity of the rest of the code by describing redundant behaviors.
